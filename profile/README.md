@@ -1,25 +1,41 @@
-# zkRent 🏡🔐
+<div align="center">
 
-zkRent is a decentralized estate rental application leveraging blockchain technology and Zero-Knowledge Proofs (ZKP) for KYC verification. Our platform ensures secure, transparent, and private rental transactions. 
+# Deantech
 
-## Key Features ✨
+**Your Gateway to Web3 Innovation**
 
-- **Decentralized Estate Rental**: Rent properties securely on the blockchain without intermediaries. 🌐
-- **KYC Verification with ZKP**: Use Zero-Knowledge Proofs for privacy-preserving Know Your Customer (KYC) verification. 🔍
-- **Biometric Passport Scanning**: Mobile app in Kotlin to scan biometric passports and generate proofs. 📱
+Developing decentralized solutions on EVM, Solana, Bitcoin, ZK, and beyond.
 
-## Tech Stack 🛠️
+[Website](https://deantech.io) · [LinkedIn](https://www.linkedin.com/company/deantech) · [Telegram](https://t.me/DenysRiabtsev) · [denys@deantech.io](mailto:denys@deantech.io)
 
-- **Front End**: Next.js with Tailwind CSS for a responsive and modern user interface. 🎨
-- **Smart Contracts**: Solidity with Hardhat for blockchain interactions. 📜
-- **ZK Circuits**: Circom for implementing Zero-Knowledge Proof circuits. 🧩
-- **Mobile App**: Kotlin-based app for biometric passport scanning. 📲
-
-## About 📝
-
-zkRent is revolutionizing the rental market by providing a secure, private, and efficient platform for renting properties. By utilizing blockchain technology and advanced cryptographic techniques, we ensure the highest standards of security and privacy for our users.
-
-Join us in transforming the rental experience with zkRent. 🚀
+</div>
 
 ---
-zkRent - Secure, Private, and Decentralized Estate Rentals
+
+## What We Do
+
+| | |
+|---|---|
+| **Smart Contract Development** | Secure, audited contracts for Ethereum, Polygon, Arbitrum, and Solana |
+| **DeFi & Trading Platforms** | DEXs, AMMs, liquidity pools, and advanced trading infrastructure |
+| **ZK Solutions & L2s** | Zero-knowledge proofs, Layer 2 scaling, privacy-preserving protocols |
+| **Investment Platforms** | Tokenized assets, staking platforms, yield optimization |
+
+## Tech Stack
+
+`Solidity` `Rust` `Circom` `Hardhat` `TypeScript` `Next.js` `Kotlin`
+
+## Selected Work
+
+**[zkRent](https://github.com/deantech-io/zkrent-contracts)** — Decentralized estate rental platform with privacy-preserving KYC. Zero-knowledge proofs (Circom) verify identity from biometric passport scans without exposing personal data.
+[Contracts](https://github.com/deantech-io/zkrent-contracts) · [Frontend](https://github.com/deantech-io/zkrent-front-end)
+
+## How We Work
+
+- **Security first** — every line of code undergoes rigorous review before it ships
+- **Speed to market** — agile delivery without compromising quality
+- **Deep industry knowledge** — years across DeFi, NFTs, DAOs, and blockchain infrastructure
+
+## Start a Project
+
+Ready to build? Reach out at **[denys@deantech.io](mailto:denys@deantech.io)** or on Telegram **[@DenysRiabtsev](https://t.me/DenysRiabtsev)** — or use the form at [deantech.io](https://deantech.io/#contact).
