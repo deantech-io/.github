@@ -36,11 +36,6 @@ Developing decentralized solutions on EVM, Solana, Bitcoin, ZK, and beyond.
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
-## ✨ Selected Work
-
-**🏡 [zkRent](https://github.com/deantech-io/zkrent-contracts)** — Decentralized estate rental platform with privacy-preserving KYC. Zero-knowledge proofs (Circom) verify identity from biometric passport scans without exposing personal data.
-[Contracts](https://github.com/deantech-io/zkrent-contracts) · [Frontend](https://github.com/deantech-io/zkrent-front-end)
-
 ## 🧭 How We Work
 
 - 🛡️ **Security first** — every line of code undergoes rigorous review before it ships
@@ -49,4 +44,4 @@ Developing decentralized solutions on EVM, Solana, Bitcoin, ZK, and beyond.
 
 ## 📬 Start a Project
 
-Ready to build? Reach out at **[contact@deantech.io](mailto:contact@deantech.io)** or on Telegram **[@DenysRiabtsev](https://t.me/DenysRiabtsev)** — or use the form at [deantech.io](https://deantech.io/#contact).
+Ready to build? Reach out at **[contact@deantech.io](mailto:contact@deantech.io)**.
